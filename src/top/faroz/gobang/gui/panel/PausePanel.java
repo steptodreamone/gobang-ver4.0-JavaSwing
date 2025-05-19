@@ -34,7 +34,7 @@ public class PausePanel extends JPanel {
         Graphics2D g2= (Graphics2D) g;
         g2.setFont(font);
         g2.setColor(Color.CYAN);
-        g2.drawString("欢迎来到FARO_Z的五子棋",160,300);
+        g2.drawString("欢迎来到五子棋",160,300);
         g2.drawString("请选择模式   并点击开始",180,400);
     }
 
